@@ -1,4 +1,4 @@
-FROM jupyter/minimal-notebook:6d2a05346196
+FROM jupyter/minimal-notebook:latest
 
 # Switch to the root user so we can install additional packages.
 
